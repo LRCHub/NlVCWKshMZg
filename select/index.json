@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "sEpia memory",
+  "base_artist": "Tommy february6",
+  "createdAt": "2025-12-01T08:17:56.465519Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sepia Memory",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/01_Sepia_Memory_Tommy_february6.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "sEpia memory",
+      "artist": "Tommy february⁶",
+      "has_synced": true,
+      "path": "select/02_sEpia_memory_Tommy_february6.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sepia Memory",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/pl_01_Sepia_Memory_Tommy_february6.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "sEpia memory",
+      "artist": "Tommy february6",
+      "has_synced": false,
+      "path": "select/pl_02_sEpia_memory_Tommy_february6.txt"
+    }
+  ]
+}
